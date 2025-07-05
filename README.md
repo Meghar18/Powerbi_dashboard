@@ -14,7 +14,11 @@ Most importantly, it empowers users to build interactive dashboards, perform dee
 Here are just a few things I’ve picked up on this learning journey:
 
 ✅ Connecting to various data sources
+
 ✅ Creating and transforming data models
+
 ✅ Using DAX for custom calculations
+
 ✅ Designing clean, insightful dashboards
+
 ✅ Publishing and sharing reports via the Power BI Service
